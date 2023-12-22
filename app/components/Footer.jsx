@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="mb-5 p-3 lg:p-0">
             <h1 className="text-5xl">About me</h1>
             <p className="mt-2">
-              Hi¡ I'm from Venezuela and i'm 22 years old, everyday i'm learning
+              Hi¡ {`I'm`} from Venezuela and {`i'm`} 22 years old, everyday {`i'm`} learning
               something new, i would like to travel around of the world but
               well, will be for another day.
             </p>

@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="hero-content text-center text-white">
         <div className=" mt-20">
           <h1 className="mb-2 w-auto text-7xl font-bold mb-5">
-            Hi,<span className="animate-bounce ">👋</span> i'm Herodes
+            Hi,<span className="animate-bounce ">👋</span> {`i'm`} Herodes
           </h1>
           <h4 className="mb-10 text-5xl">
             🧑‍💻Web{" "}
