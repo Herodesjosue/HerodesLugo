@@ -5,8 +5,8 @@ import { usePathname } from "next/navigation";
 const Navbar = () => {
   const linkRoutes = [
     // {
-    //   // name: "HOME",
-    //   // route: "/",
+    //   name: "HOME",
+    //   route: "#home",
     // },
     {
       name: "PROJECTS",

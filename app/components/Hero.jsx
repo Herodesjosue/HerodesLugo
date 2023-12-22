@@ -6,6 +6,7 @@ const Hero = () => {
   return (
     <div
       className="hero min-h-screen"
+      // id="#home"
       style={{
         backgroundImage: `url("/images/laptop.jpg")`,
       }}

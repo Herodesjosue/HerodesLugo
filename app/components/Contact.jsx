@@ -78,7 +78,7 @@ const Contact = () => {
                 value={informacion.email}
                 onChange={handleChange}
                 required
-                autoFocus
+                // autoFocus
               />
             </div>
             <div className="form-control">
